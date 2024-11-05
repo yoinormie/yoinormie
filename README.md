@@ -1,13 +1,17 @@
-- 👋 Hi, I’m @yoinormie  
+# Hi! I'm Yoel García  
+## About me  
+I'm a young student with passion in the areas of BackEnd Development, Videogames Development and Cybersecurity.   
 
-- 👀 I’m interested in BackEnd Development, CyberSecurity, VideoGames Development and more  
+## Skills   
+My currents and most developed skills are the next -->   
+- Java  
+- Python  
+- XML  
+- DD.BB  
+- HTML/CSS  
 
-- 🌱 I’m currently studying Multi-Platform Applications Development  
-
-- 📫 To contact me you can use the linktree that I put in the info at my profile  
-
-- 😄 Pronouns: he/him  
-
+## Contact  
+You can contact me sending a email to ygarcialago.work@gmail.com or check my LinkTree and chat in different social media
 
 <!---
 yoinormie/yoinormie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
