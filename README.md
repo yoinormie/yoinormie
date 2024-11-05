@@ -11,7 +11,7 @@ My currents and most developed skills are the next -->
 - HTML/CSS  
 
 ## Contact  
-You can contact me sending a email to ygarcialago.work@gmail.com or check my LinkTree and chat in different social media
+You can contact me sending a email to ygarcialago.work@gmail.com or check my LinkTree and chat in a different social media
 
 <!---
 yoinormie/yoinormie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
